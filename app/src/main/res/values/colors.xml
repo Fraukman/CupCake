@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#6200EE</color> <!-- Azul vibrante -->
+    <color name="primary_variant">#3700B3</color> <!-- Tom mais escuro do azul -->
+    <color name="secondary">#03DAC5</color> <!-- Verde água vibrante -->
+
+    <!-- Background Colors -->
+    <color name="background">#F5F5F5</color> <!-- Fundo suave e claro -->
+    <color name="surface">#FFFFFF</color> <!-- Superfície branca para elementos -->
+
+    <!-- Text Colors -->
+    <color name="on_primary">#FFFFFF</color> <!-- Texto claro em fundo primário -->
+    <color name="on_secondary">#000000</color> <!-- Texto escuro em fundo secundário -->
+    <color name="on_background">#000000</color> <!-- Texto escuro para fundos claros -->
+    <color name="on_surface">#000000</color> <!-- Texto escuro para a superfície branca -->
+
+    <!-- Additional Colors -->
+    <color name="error">#B00020</color> <!-- Cor de erro -->
+    <color name="on_error">#FFFFFF</color> <!-- Texto claro para elementos de erro -->
+
+    <!-- Light and Dark Modes (Optional) -->
+    <color name="background_dark">#121212</color> <!-- Fundo escuro para modo noturno -->
+    <color name="surface_dark">#1E1E1E</color> <!-- Superfície escura para modo noturno -->
+    <color name="on_background_dark">#FFFFFF</color> <!-- Texto claro no modo noturno -->
+    <color name="on_surface_dark">#FFFFFF</color> <!-- Texto claro na superfície no modo noturno -->
+
+</resources>
+
